@@ -5,7 +5,7 @@ As we need to analyze the restaurant distribution and explore various venues, th
 
 ### Data Feature
 To explore more information of Ottawa, we use Foursquare api to explore the venues in each neighborhood of Ottawa. For each neighborhood, we collect the venue name and the venue category. The samples of collected data is shown below:
-![Cleaned data](img/ottawa2.png)
+![Cleaned data coordinates](img/ottawa2.png)
 
 ### Data usage
 The collected data will be used in the following way: 
