@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex restaurant_report"] 1593706759 "restaurant_report.aux" "restaurant_report.bbl" "restaurant_report" 1593706760
+["bibtex restaurant_report"] 1593707334 "restaurant_report.aux" "restaurant_report.bbl" "restaurant_report" 1593707335
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1480098433 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "Attention.bib" 0 -1 0 ""
-  "restaurant_report.aux" 1593706760 1327 57628f9f37d579c3524508ed3231481a ""
+  "restaurant_report.aux" 1593707334 1395 86a9a199c90b3399beaeb546fa0ae493 ""
   (generated)
   "restaurant_report.blg"
   "restaurant_report.bbl"
-["pdflatex"] 1593706759 "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.tex" "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.pdf" "restaurant_report" 1593706760
-  "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.aux" 1593706760 1327 57628f9f37d579c3524508ed3231481a ""
-  "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.tex" 1593706758 4798 9d7237f87d5de12bcf8a95c4976d4a60 ""
+["pdflatex"] 1593707334 "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.tex" "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.pdf" "restaurant_report" 1593707335
+  "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.aux" 1593707334 1395 86a9a199c90b3399beaeb546fa0ae493 ""
+  "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.tex" 1593707333 4815 ded48cb2b46323fa4276f6c14d382540 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -68,15 +68,15 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1533606925 4221006 2f303bccc6145414977566b2b6b68b01 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "IEEEtran.cls" 1440654524 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "img/ottawa1.png" 1593706721 59300 fcc5f1387d18e03a2a9847ed3aec3fb1 ""
-  "img/ottawa2.png" 1593706690 25725 de201185546f1da7b7f156c1918fce43 ""
-  "restaurant_report.aux" 1593706760 1327 57628f9f37d579c3524508ed3231481a ""
+  "img/ottawa1.png" 1593706781 62495 6ffc8e02a0e642afa84a479fffba031e ""
+  "img/ottawa2.png" 1593706798 147996 ba2a2fea7ebe74973eb9e27a04e9256e ""
+  "restaurant_report.aux" 1593707334 1395 86a9a199c90b3399beaeb546fa0ae493 ""
   "restaurant_report.bbl" 0 -1 0 "bibtex restaurant_report"
-  "restaurant_report.tex" 1593706758 4798 9d7237f87d5de12bcf8a95c4976d4a60 ""
+  "restaurant_report.tex" 1593707333 4815 ded48cb2b46323fa4276f6c14d382540 ""
   (generated)
-  "restaurant_report.nlo"
   "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.log"
-  "restaurant_report.log"
-  "restaurant_report.aux"
+  "restaurant_report.nlo"
   "restaurant_report.pdf"
+  "restaurant_report.log"
   "/Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.pdf"
+  "restaurant_report.aux"

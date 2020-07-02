@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.6)  2 JUL 2020 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.6)  2 JUL 2020 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -486,20 +486,20 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 50.
 
-<img/ottawa1.png, id=1, 1060.96375pt x 208.78pt>
+<img/ottawa1.png, id=1, 1140.26pt x 283.0575pt>
 File: img/ottawa1.png Graphic file (type png)
 <use img/ottawa1.png>
 Package pdftex.def Info: img/ottawa1.png  used on input line 52.
-(pdftex.def)             Requested size: 516.0pt x 101.54169pt.
+(pdftex.def)             Requested size: 516.0pt x 128.09166pt.
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 60.
 
-<img/ottawa2.png, id=3, 594.22pt x 146.5475pt>
+<img/ottawa2.png, id=3, 2017.5375pt x 402.50375pt>
 File: img/ottawa2.png Graphic file (type png)
 <use img/ottawa2.png>
 Package pdftex.def Info: img/ottawa2.png  used on input line 62.
-(pdftex.def)             Requested size: 516.0pt x 127.26271pt.
+(pdftex.def)             Requested size: 516.0pt x 102.9411pt.
 [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/ma/Course/coursera/Coursera_Capstone/report/img/ottawa1.png>]
 No file restaurant_report.bbl.
 
@@ -517,13 +517,13 @@ Before submitting the final camera ready copy, remember to:
 Here is how much of TeX's memory you used:
  4683 strings out of 492642
  68090 string characters out of 6129385
- 135702 words of memory out of 5000000
+ 134701 words of memory out of 5000000
  8509 multiletter control sequences out of 15000+600000
  30804 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,7n,35p,844b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.pdf (2 pages, 97433 bytes).
+Output written on /Users/ma/Course/coursera/Coursera_Capstone/report/restaurant_report.pdf (2 pages, 189936 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
