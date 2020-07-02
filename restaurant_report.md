@@ -39,7 +39,7 @@ The collected data will be used in the following way:
 * Cluster these restaurants and analyze the restaurant category of each cluster. Then, according to the ranked restaurant category, the best restaurant type in each cluster can be selected.
 
 
-## Methodology
+## Methodology and Result
 |![The neighborhoods of Ottawa](img/ottawa.png) |
 |:--:| 
 | *Fig. 3. The neighborhoods of Ottawa.* |
