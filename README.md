@@ -92,7 +92,7 @@ For each cluster, we can estimate which restaurant category would be popular in 
 | *Fig. 9. The most common restaurant in cluster 4.* |
 
 
-Second, we can open a certain type of restaurant which does not exist in that area. People live area can be attracted to the new opened restaurant, if they haven't tried this type of food before, or they tried of eating the same time food. Following this rule, in Ottawa downtown, one can open a Chinese restaurant. (according to cluster 4, 13).
+Second, we can open a certain type of restaurant which does not exist in that area. People who lived in that area can be attracted to the new opened restaurant, if they haven't tried this type of food before, or they tried of eating the same time food. Following this rule, in Ottawa downtown, one can open a Chinese restaurant. (according to cluster 4, 13).
 
 |![The most common restaurant in each cluster](img/cluster13.png) |
 |:--:| 
